@@ -3,6 +3,9 @@
 
 This GitHub repository contains scripts used to produce the manuscript "PCR assay for rapid taxonomic differentiation of virulent Staphylococcus aureus and Klebsiella pneumoniae bacteriophages"
 
+1. code – code for the main analysis
+2. plots – `R` code and data to generate figures from the article
+
 ## Prerequisites
 - [ncbi-acc-download](https://github.com/kblin/ncbi-acc-download)
 - [prokka](https://github.com/tseemann/prokka) + [pVOG](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5210652) and [PHROGs](https://phrogs.lmge.uca.fr/) databases  
@@ -26,6 +29,3 @@ This GitHub repository contains scripts used to produce the manuscript "PCR assa
   - [phylotools](https://github.com/helixcn/phylotools)
   - [phytools](https://github.com/liamrevell/phytools)
   - [qualpalr](https://jolars.github.io/qualpalr/index.html)
-
-1. code – code for the main analysis
-2. plots – `R` code and data to generate figures from the article
